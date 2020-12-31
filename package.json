@@ -6,7 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "parcel build src/index.html"
-
   },
   "keywords": [],
   "author": "",
@@ -20,6 +19,7 @@
     "prettier": "^2.2.1"
   },
   "dependencies": {
+    "date-fns": "^2.11.1",
     "format-number": "^3.0.0",
     "react": "^17.0.1",
     "react-async-hook": "^3.6.2",

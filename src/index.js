@@ -9,7 +9,4 @@ if (module.hot) {
     window.location.reload();
   });
 }
-לחךמ
-לחךמ
-HTMLOptGroupElement
-PublicKeyCredential
+
